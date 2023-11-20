@@ -1,5 +1,6 @@
 <script>
   import Header from "../../lib/components/header/Header.svelte";
+  import header-image.jpg from '../'
 
 </script>
 
@@ -11,3 +12,4 @@
 
 <button type="button" class="btn variant-filled-primary"><a href="/products">View our menu</a></button>
 </section>
+<a href=""></a>
