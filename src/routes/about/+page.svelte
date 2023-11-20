@@ -1,7 +1,5 @@
 <script>
   import Header from "../../lib/components/header/Header.svelte";
-  import header-image.jpg from '../'
-
 </script>
 
 <Header></Header>
