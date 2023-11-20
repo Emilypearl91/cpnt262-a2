@@ -12,6 +12,7 @@
 - chicken rice bowl [unsplash](https://unsplash.com/photos/corn-and-sliced-tomato-on-white-ceramic-bowl-zhkhwGrqilw)
 - sesame shrimp bowl [unsplash](https://unsplash.com/photos/vegetable-salad-in-white-ceramic-bowl-FtpgFeUQuAY)
 - radish green bowl [unsplash](https://unsplash.com/photos/green-salad-on-a-black-bowl-bBzjWthTqb8) 
+- to style content [tailwind](https://tailwindcss.com/docs/align-content)
 
 [github repo](https://github.com/Emilypearl91/cpnt262-a2)
 [netlify](https://legendary-pegasus-616557.netlify.app/)
