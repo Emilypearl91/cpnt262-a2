@@ -9,7 +9,7 @@ import { bestsellers } from "../../data";
 <h2 class="h2 text-center m-4">Todays specials</h2>
 <section class="flex flex-row justify-around m-8">
 
-  <div class="card p-4 max-w-xs bg-primary-500">
+  <div class="card p-4 max-w-xs">
     <img src="{cornLettuce.URL}" alt="corn,lettuce,tomato and meat salad bowl ">
     <h3 class="h3">{cornLettuce.title}</h3>
     <p>{cornLettuce.description}</p>
@@ -31,7 +31,7 @@ import { bestsellers } from "../../data";
 
 <h2 class="h2 text-center m-4">Bestsellers</h2>
 <section class="flex flex-row justify-around m-8">
-<div class="card p-4 max-w-xs">
+<div class="card p-4 max-w-xs bg-primary-500">
 <img src="{bestsellers.sesameURL}" alt=" rice noodle bowl seaweed, mushrooms, parsley, shrimp and tomatoes">
   <h3 class="h3">{bestsellers.sesameTitle}</h3>
 <p>{bestsellers.sesameInfo}</p>

@@ -20,8 +20,8 @@ export let bestsellers = {
   sesameTitle: 'Sesame Shrimp Bowl',
   sesameInfo: 'This sesame shrimp bowl is made with seaweed, mushrooms, parsley, shrimp, rice noodles and tomatoes',
   sesameURL: 'src/lib/images/food-photographer-FtpgFeUQuAY-unsplash.jpg',
-  radishTitle: 'Chicken Rice Bowl',
-  radishInfo: 'This chicken rice bowl is made with corn, rice, tomatoes and grilled chicken.',
+  radishTitle: ' Radish Green Bowl',
+  radishInfo: 'This radish green salad bowl is made with radishes, cucumber, onions, leafy green mix and pita bread.',
   radishURL: 'src/lib/images/sina-piryae-bBzjWthTqb8-unsplash.jpg',
   chickenTitle: 'Chicken Rice Bowl',
   chickenInfo: 'This chicken rice bowl is made with corn, rice, tomatoes and grilled chicken.',
@@ -34,16 +34,16 @@ export let title = 'Tossed';
 
   export let about = {
     title: 'About Us',
-    URL: 'http://localhost:5173/about',
+    URL: '/about',
   };
  
   export let product = {
     title: 'Products',
-    URL: 'http://localhost:5173/products'
+    URL: '/products'
   };
  export let home = {
    title: 'Home',
-   URL: 'http://localhost:5173'
+   URL: '/'
  };
 
 // footer
