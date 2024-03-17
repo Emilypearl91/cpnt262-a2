@@ -1,7 +1,8 @@
 <script>
   import Header from "../../lib/components/header/Header.svelte";
+  import Navbar from "../../lib/components/navBar/Navbar.svelte";
 </script>
-
+<Navbar></Navbar>
 <Header></Header>
 <section class="m-2 text-center">
 <h2 class="h2">About Us</h2>
@@ -10,4 +11,3 @@
 
 <button type="button" class="btn variant-filled-primary"><a href="/products">View our menu</a></button>
 </section>
-<a href=""></a>
