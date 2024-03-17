@@ -11,7 +11,6 @@
 
 	
 <AppShell>
-	<svelte:fragment slot="header"><Navbar></Navbar></svelte:fragment>
 	<!-- Router Slot -->
 	<slot />
 	<!-- ---- / ---- -->
