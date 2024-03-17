@@ -1,3 +1,4 @@
-<section class="bg-surface-500 h-80">
-  <img class="w-screen h-80 bg-cover bg-top " src="/images/header-image.jpg" alt="three salad bowls">
+<section class="bg-surface-500 h-[500px] overflow-hidden">
+  <img class="  bg-cover bg-top " src="/images/anh-nguyen-fdXnVBurIvU-unsplash.jpg" alt="Edamame, egg, corn, tofu salad bowl">
 </section>
+
